@@ -1,2 +1,3 @@
-# PrivateSeniorSeminar
-This is the final build of my senior seminar from college.
+# SeniorSeminar
+This is my senior seminar project.
+Created by: William Kaminski
